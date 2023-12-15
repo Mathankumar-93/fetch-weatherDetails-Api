@@ -1,0 +1,10 @@
+.box {
+  align-items: center !important;
+  background-color: black !important;
+  padding: 40px !important;
+  color: aqua !important;
+}
+.city {
+  font-size: xx-large !important;
+  font-weight: bolder !important;
+}
